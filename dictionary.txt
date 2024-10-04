@@ -1,0 +1,15 @@
+dicionario
+hyperledger fabric ||  DREX usou a Hyperledger Besu
+blockchain pattern [evm(etheriun)|]
+ERC20 token fungiveis
+vercel free publish nextjs
+RWS - defi
+L1-Layer 1 blockchain pura.
+L2-Layer 2 blockchain secundária, sobre uma L1.
+ABI = Apllication Binary Inerface
+DAOs = Decentralized Autonomus Organizations
+token rc20/ NFT rc721,rc721a, rc1155 collection
+
+hackatons sites devpost haikai
+web3.career
+blockchainheadhunter.com/jobs
